@@ -6,11 +6,6 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11/">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="lib" path="/home/filip/.gradle/caches/modules-2/files-2.1/com.github.FedericoPecora/coordination_oru/0.5.4/93a8fbf74c9b94b179d12597d5dcf085881804d6/coordination_oru-0.5.4.jar" sourcepath="/home/filip/.gradle/caches/modules-2/files-2.1/com.github.FedericoPecora/coordination_oru/0.5.4/3c6a8d8b810cc85a9546caf123dc06f36cfbadff/coordination_oru-0.5.4-sources.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
@@ -366,6 +361,6 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/filip/Pulpit/projekt/auction-based-mrta/src/main/java/tests/oru/coordinator/jFuzzyLogic.jar"/>
+	<classpathentry kind="lib" path="/home/filip/Pulpit/projekt/MRTA/auction-based-mrta/jFuzzyLogic.jar"/>
 	<classpathentry kind="output" path="bin/default"/>
 </classpath>

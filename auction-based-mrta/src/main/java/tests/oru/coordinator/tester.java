@@ -37,7 +37,7 @@ import java.lang.String;
 
 public class tester {
 	
-	public static double[][] fuzzyBid(double[][] distances,double[][] cs)
+	/*public static double[][] fuzzyBid(double[][] distances,double[][] cs)
 	{
 		cs = TestExternalMotionPlanner1.normalize(cs);
 		distances = TestExternalMotionPlanner1.normalize(distances);
@@ -193,6 +193,7 @@ public class tester {
 		}
 		
 		return k;
+		
 	}
 	
 	
@@ -303,10 +304,10 @@ public class tester {
 		//double[][] bid = fuzzyBid(distances,cs);
 		int computations = checkComputations(takingIntoAccount);
 		//int[] alloc = TestExternalMotionPlanner1.auction(bid);
-		System.out.print(computations);*/
+		System.out.print(computations);
 	}
 
-
+*/
 
 
 }
