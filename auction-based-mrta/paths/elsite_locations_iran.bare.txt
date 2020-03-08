@@ -1,5 +1,0 @@
-#Locations *x, y, theta(
-myLocation  0.0 0.0 0.0
-myLocation2  20.0 20.0 0.0
-
-#Paths
