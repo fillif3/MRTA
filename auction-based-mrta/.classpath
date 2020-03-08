@@ -6,17 +6,13 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11/">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
 	<classpathentry kind="lib" path="/home/filip/.gradle/caches/modules-2/files-2.1/com.github.FedericoPecora/coordination_oru/0.5.4/93a8fbf74c9b94b179d12597d5dcf085881804d6/coordination_oru-0.5.4.jar" sourcepath="/home/filip/.gradle/caches/modules-2/files-2.1/com.github.FedericoPecora/coordination_oru/0.5.4/3c6a8d8b810cc85a9546caf123dc06f36cfbadff/coordination_oru-0.5.4-sources.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/filip/.gradle/caches/modules-2/files-2.1/com.github.FedericoPecora/meta-csp-framework/master-SNAPSHOT/eb08c2dd3556b5d302767755d04f7b20045e79fe/meta-csp-framework-master-SNAPSHOT.jar" sourcepath="/home/filip/.gradle/caches/modules-2/files-2.1/com.github.FedericoPecora/meta-csp-framework/master-SNAPSHOT/d9ba12fadc6b1a6d803197242b42134554246025/meta-csp-framework-master-SNAPSHOT-sources.jar">
+	<classpathentry kind="lib" path="/home/filip/.gradle/caches/modules-2/files-2.1/com.github.FedericoPecora/meta-csp-framework/master-SNAPSHOT/68e0b4a9756567b9f596ce17d6fa622737afb972/meta-csp-framework-master-SNAPSHOT.jar" sourcepath="/home/filip/.gradle/caches/modules-2/files-2.1/com.github.FedericoPecora/meta-csp-framework/master-SNAPSHOT/eb694a8e61b8d68400d47fdf3e8779cca925f2cb/meta-csp-framework-master-SNAPSHOT-sources.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -366,6 +362,6 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/filip/Pulpit/projekt/auction-based-mrta/src/main/java/tests/oru/coordinator/jFuzzyLogic.jar"/>
+	<classpathentry kind="lib" path="/home/filip/Pulpit/projekt/MRTA/auction-based-mrta/jFuzzyLogic.jar"/>
 	<classpathentry kind="output" path="bin/default"/>
 </classpath>

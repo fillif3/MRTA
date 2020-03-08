@@ -120,7 +120,7 @@ public class collision {
 		{
 			for (int j=(i+1);j<l;j++)
 			{
-				if (TestExternalMotionPlanner1.contains(index, j)==0)
+				if (Allocation.contains(index, j)==0)
 				{
 					int[][] map = collisionMap(paths.get(i).get(prediction[i]),polygons.get(i),paths.get(j).get(prediction[j]),polygons.get(j), safeDistances[i],dangerousDistances[i],safeDistances[j],dangerousDistances[j]);
 					cs[i]= cs[i]+getCsFromMap(map);
