@@ -1,0 +1,9 @@
+method0
+elapsed time:0.0
+allocation: 8 1 5 4 2 3 0 6 7
+method1
+elapsed time:46888.0
+allocation: 1 8 6 0 4 2 3 7 5
+method2
+elapsed time:76197.0
+allocation: 1 8 2 6 4 0 3 7 5

@@ -1,0 +1,77 @@
+[33mcommit 2908361fae748ad2febf7bdcfe86e91ff5b87ed8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: fxs902 <fxs902@student.bham.ac.uk>
+Date:   Thu Mar 19 21:35:07 2020 +0000
+
+    I created results of simulations in simulation folder
+
+[33mcommit 112f7f7859b287a7f2763540e7dfe917c264372c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: fxs902 <fxs902@student.bham.ac.uk>
+Date:   Tue Mar 17 21:15:42 2020 +0000
+
+    Added allocations, bugfix.
+
+[33mcommit d647489a94ff67bb37f733397dffe62863abd0a9[m
+Author: fxs902 <fxs902@student.bham.ac.uk>
+Date:   Mon Mar 16 22:05:39 2020 +0000
+
+    I decided to create random poses in txt files instead of the beginning of each simulation. There are in test folder. Allocations are in allocations folder. There are going to be separete file for time from simuation in separate folder.
+
+[33mcommit 891942bd04b36a9ae358482887b2184110fec6c8[m
+Author: fxs902 <fxs902@student.bham.ac.uk>
+Date:   Sun Mar 15 21:20:23 2020 +0000
+
+    I made few changes in correction step (now it works faster)
+
+[33mcommit ab18056833b7e2cf7189b3f2ec94dad47b52a2a3[m
+Author: fxs902 <fxs902@student.bham.ac.uk>
+Date:   Sat Mar 14 01:42:45 2020 +0000
+
+    Added logger
+
+[33mcommit 6288c654e93b5e5c0785a2c41ea4f0983676e3d5[m
+Author: fxs902 <fxs902@student.bham.ac.uk>
+Date:   Fri Mar 13 23:45:15 2020 +0000
+
+    Created new maps
+
+[33mcommit e416b4370592a68954257f01200a76d2c7653c93[m
+Author: fxs902 <fxs902@student.bham.ac.uk>
+Date:   Mon Mar 9 00:15:36 2020 +0000
+
+    I added some functions. We can now choose random positions and check more allocations.
+
+[33mcommit db5c55c5bbb568c81d44908cc70d5eaa4c0088a3[m
+Author: fxs902 <fxs902@student.bham.ac.uk>
+Date:   Sun Mar 8 20:47:42 2020 +0000
+
+    I fixed one thing
+
+[33mcommit 9afe977b422dcbb472d9131e2043b728bbe44970[m
+Author: fxs902 <fxs902@student.bham.ac.uk>
+Date:   Sun Mar 8 20:38:42 2020 +0000
+
+    I added 3 classes andfew changes TestExternalMotionPlanner1
+
+[33mcommit b98a2bd3344ed82f065135b353ee5d67af17589a[m
+Author: iran <iran.mansoori85@gmail.com>
+Date:   Wed Jan 29 15:26:06 2020 +0000
+
+    get critical section
+
+[33mcommit fec80b99faf23ad5086047daf83d7af1b9f0e1b8[m
+Author: iran <iran.mansoori85@gmail.com>
+Date:   Thu Jan 16 18:01:48 2020 +0000
+
+    major change in visualtion and missions design
+
+[33mcommit ed6eb67a26b9c3687b6736ce601df2c358835bf0[m
+Author: iran <iran.mansoori85@gmail.com>
+Date:   Tue Jan 14 18:47:03 2020 +0000
+
+    comment everything
+
+[33mcommit 555db1b4a717baff4f86bb0c92746489b334195c[m
+Author: iran <iran.mansoori85@gmail.com>
+Date:   Tue Jan 14 18:09:06 2020 +0000
+
+    Initial commit

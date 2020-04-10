@@ -1,0 +1,15 @@
+for (int i = 1; i <= NUMBER_ROBOTS; i++) {
+			final int robotID = i;
+			//For each robot, create a thread that dispatches the "next" mission when the robot is free 
+				 
+						Mission m = Missions.getMission(robotID, 0);
+						
+							//addMission returns true iff the robot was free to accept a new mission
+							if (tec.addMissions(m)) {
+								
+						
+						//Sleep for a little (2 sec)
+					}
+				
+			
+		}
